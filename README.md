@@ -1,6 +1,9 @@
 # checkout-cart
 
-The purpose of this application is to display a simple checkout cart
+The purpose of this application is to display a simple checkout cart. 
+- Click the Add to Cart button to add to cart
+- To see your items click Cart Icon in the top right corner of the screen. 
+- Here you will be able to remove selected items and see your cart total
 
 Things to do: 
 - Based on items in cart, nudge the “customer” to add another (or 2) of the more valuable
