@@ -1,7 +1,8 @@
 # checkout-cart
 
 The purpose of this application is to display a simple checkout cart. 
-- Click the Add to Cart button to add to cart
+- Click the Add to Cart button to "Add items to cart"
+- To Go back to the "Catalog/ Main Page" Click "My Shopping"
 - To see your items click Cart Icon in the top right corner of the screen. 
 - Here you will be able to remove selected items and see your cart total
 
