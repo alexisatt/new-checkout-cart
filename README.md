@@ -8,7 +8,8 @@ The purpose of this application is to display a simple checkout cart.
 Things to do: 
 - Based on items in cart, nudge the “customer” to add another (or 2) of the more valuable
 types to cart and complete their bundle.
-- display related items
+- Update Cart Amount (top right corner) 
+
 
 Little Side Notes:
 - Because of CORS error user may need to refresh a few times to let the proxy server work it's magic. 
